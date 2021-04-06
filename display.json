@@ -1,0 +1,98 @@
+{
+  "button": {
+    "colours": {
+      "normal_bg": "#800080",
+      "hovered_bg": "#800080",
+      "disabled_bg": "#999999",
+      "selected_bg": "#B2B2B2",
+      "active_bg": "#193784",
+      "normal_text": "#FFFFFF",
+      "hovered_text": "#FFFFFF",
+      "selected_text": "#191919",
+      "disabled_text": "#6d736f",
+      "active_text": "#6d736f",
+      "normal_border": "#DDDDDD",
+      "hovered_border": "#B0B0B0",
+      "disabled_border": "#808080",
+      "selected_border": "#808080",
+      "active_border": "#191919"
+    },
+    "font": {
+      "name": "pywobot/arialbd",
+      "size": "48",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Users/yorin/Desktop/workoutGenerator-main/pywobot/arialbd.ttf"
+    }
+  },
+  "current_workout": {
+    "colours": {
+      "disabled_bg": "#478CD5",
+      "disabled_text": "#FFFFFF",
+      "disabled_border": "#478CD5"
+    },
+    "font": {
+      "name": "pywobot/arialbd",
+      "size": "60",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Users/yorin/Desktop/workoutGenerator-main/pywobot/arialbd.ttf"
+    }
+  },
+  "current_time": {
+    "colours": {
+      "disabled_bg": "#478CD5",
+      "disabled_text": "#FFFFFF",
+      "disabled_border": "#478CD5"
+    },
+    "font": {
+      "name": "pywobot/arialbd",
+      "size": "180",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Users/yorin/Desktop/workoutGenerator-main/pywobot/arialbd.ttf"
+    }
+  },
+  "next_workout": {
+    "colours": {
+      "disabled_text": "#FFFFFF",
+      "disabled_bg": "#999999",
+      "disabled_border": "#999999"
+    },
+    "font": {
+      "name": "pywobot/arialbd",
+      "size": "24",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Users/yorin/Desktop/workoutGenerator-main/pywobot/arialbd.ttf"
+    }
+  },
+  "next_time": {
+    "colours": {
+      "disabled_text": "#FFFFFF",
+      "disabled_bg": "#999999",
+      "disabled_border": "#999999"
+    },
+    "font": {
+      "name": "pywobot/arialbd",
+      "size": "36",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Users/yorin/Desktop/workoutGenerator-main/pywobot/arialbd.ttf"
+    }
+  },
+  "total_time": {
+    "colours": {
+      "disabled_text": "#FFFFFF",
+      "disabled_bg": "#A18EB2",
+      "disabled_border": "#A18EB2"
+    },
+    "font": {
+      "name": "pywobot/arialbd",
+      "size": "24",
+      "bold": "0",
+      "italic": "0",
+      "regular_path": "C:/Users/yorin/Desktop/workoutGenerator-main/pywobot/arialbd.ttf"
+    }
+  }
+}
