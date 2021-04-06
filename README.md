@@ -18,6 +18,9 @@ Each pygame page are written in their own file:
 Generated workout are automatically stored into .txt file, noted with today's date.
 
 
+Bugs in workout parameters are fixed. Should be able to generate workout in most cases.
+
+
 
 Next Step:
 - improve visuals
