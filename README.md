@@ -2,7 +2,8 @@
 Need WorkoutGenerator (https://github.com/jdkent/workoutGenerator) to function
 
 
-Run main_wobot_loop to use the game.
+**Run main_wobot_loop to use the game.**
+
 Each pygame page are written in their own file:
 - Muscle_Select (remove unwanted muscles)
 - Select_Workout (select workout types: tabata, dropset, timed workout, exox, total random)
@@ -14,7 +15,7 @@ Each pygame page are written in their own file:
 - Running_Workout (page with timer)
 
 
-generated workout are automatically stored into .txt file, noted with today's date.
+Generated workout are automatically stored into .txt file, noted with today's date.
 
 
 
