@@ -1,7 +1,7 @@
 # pygame_wobot
 Need WorkoutGenerator (https://github.com/jdkent/workoutGenerator) to function
 
-**** Simple Start****
+## Simple Start
 ** Run Simple_Wobot to start **
 - Simple_Start
 - Get_Seed
@@ -12,7 +12,7 @@ Need WorkoutGenerator (https://github.com/jdkent/workoutGenerator) to function
 
 
 
-**** Full Customization Version ****
+## Full Customization Version
 **Run main_wobot_loop to use the game.**
 
 Each pygame page are written in their own file:
